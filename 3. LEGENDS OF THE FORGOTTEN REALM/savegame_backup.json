@@ -1,0 +1,37 @@
+{
+    "name": "dfgh",
+    "player_class": "Warrior",
+    "level": 3,
+    "exp": 0,
+    "hp": 240,
+    "max_hp": 240,
+    "mana": 70,
+    "max_mana": 70,
+    "attack": 40,
+    "defense": 31,
+    "gold": 180,
+    "potions": 3,
+    "mana_potions": 2,
+    "inventory": [
+        "Wooden Sword",
+        "Leather Armor",
+        "Archer Armor",
+        "War Hammer",
+        "Holy Robe",
+        "Fire Staff",
+        "Ice Blade",
+        "Ice Staff"
+    ],
+    "loot_items": [
+        "Archer Armor",
+        "War Hammer",
+        "Holy Robe",
+        "Fire Staff",
+        "Ice Blade",
+        "Ice Staff"
+    ],
+    "equipped_weapon": "War Hammer",
+    "equipped_armor": "Archer Armor",
+    "bosses_defeated": [],
+    "enemies_defeated": 6
+}

@@ -1,0 +1,25 @@
+{
+    "name": "fghj",
+    "player_class": "Assassin",
+    "level": 1,
+    "exp": 50,
+    "hp": 90,
+    "max_hp": 100,
+    "mana": 80,
+    "max_mana": 100,
+    "attack": 45,
+    "defense": 10,
+    "gold": 130,
+    "potions": 3,
+    "mana_potions": 2,
+    "inventory": [
+        "Holy Staff"
+    ],
+    "loot_items": [
+        "Holy Staff"
+    ],
+    "equipped_weapon": null,
+    "equipped_armor": null,
+    "bosses_defeated": [],
+    "enemies_defeated": 1
+}
